@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Yağmur👋🏻
+
+![bg4](https://user-images.githubusercontent.com/47380312/101977996-c422ab00-3c62-11eb-8187-33826d157105.JPG)
+
+
+
+## Find me around the web 🌍
+- ✍🏻 My blogs on [Medium](https://yagmurerdgn.medium.com/) !
+- 🌟 Sharing updates on [LinkedIn](https://www.linkedin.com/in/yagmurerdgn/) !
 
 <!--
 **yagmurerdogan/yagmurerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
