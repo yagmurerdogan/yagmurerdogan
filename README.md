@@ -1,7 +1,19 @@
 # Hi, I'm Yağmur👋🏻
 
-![bg4](https://user-images.githubusercontent.com/47380312/101977996-c422ab00-3c62-11eb-8187-33826d157105.JPG)
+## GitHub Stats
 
+<a href="https://github.com/yagmurerdogan/yagmurerdogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yağmur's GitHub Stats" />
+</a>
+
+<a href="https://github.com/yagmurerdogan/yagmurerdogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurerdogan&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/yagmurerdogan/count.svg" />
+</p>
 
 
 ## Find me around the web 🌍
@@ -18,6 +30,14 @@
 
 
 Here are some ideas to get you started:
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/yagmurerdogan/count.svg" />
+</p>
+
+
+![bg4](https://user-images.githubusercontent.com/47380312/101977996-c422ab00-3c62-11eb-8187-33826d157105.JPG)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
