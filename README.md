@@ -6,10 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yağmur's GitHub Stats" />
 </a>
 
-<a href="https://github.com/yagmurerdogan/yagmurerdogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurerdogan&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ## Find me around the web 🌍
 [![github](https://img.icons8.com/ios/50/000000/github-2.png)](https://github.com/yagmurerdogan)
 [![medium](https://img.icons8.com/ios/50/000000/medium-new.png)](https://yagmurerdgn.medium.com/)
@@ -24,6 +20,11 @@
 
 
 Here are some ideas to get you started:
+
+
+<a href="https://github.com/yagmurerdogan/yagmurerdogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurerdogan&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <p align="left"> 
   <b>Visitor count</b><br>
