@@ -1,4 +1,5 @@
-# Hi, I'm Yağmur👋🏻
+# Hi, I'm Yağmur ![android_robot_mobile_mood_emoji_happy_smile_successful_icon-icons com_61441](https://user-images.githubusercontent.com/47380312/123044821-db590700-d402-11eb-9cb6-4f950f51b8e6.png)
+
 
 ## GitHub Stats
 
