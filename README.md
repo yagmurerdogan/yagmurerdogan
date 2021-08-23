@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 I’m currently working at [Hepsiburada](https://www.hepsiburada.com/)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
-- 🇩🇪 My German notes on [Notion](https://innate-elk-7ae.notion.site/5473c32e5e3c48abb28a13d6400a4af3?v=50e8249751d74da587529ba57b565fbb)
+- 🇩🇪 My German notes on [Notion](https://yagmurerdogan.notion.site/5473c32e5e3c48abb28a13d6400a4af3?v=50e8249751d74da587529ba57b565fbb)
 - 🎧 Listen to my [Podcast](https://open.spotify.com/episode/1MRUQx7c1B2YEMfsRPqM1s)
 - 🌎 My Volunteering [Memories](https://drive.google.com/file/d/1RXC5VDv_JPmjgH1Y1Q7tH9Nmpdqfk34e/view?usp=sharing)
 - 💬 Ask me about Android App Development or any tech related stuff
