@@ -16,10 +16,10 @@
 
 
 ## Find me around the web 🌍
-[![github](https://img.icons8.com/ios/50/000000/github-2.png)](https://github.com/yagmurerdogan)
-[![medium](https://img.icons8.com/ios/50/000000/medium-new.png)](https://yagmurerdgn.medium.com/)
-[![linkedin](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/yagmurerdgn/) 
-[![twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/yamuurerdgn)
+[![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
+[![github](https://img.icons8.com/color/50/000000/github-2.png)](https://github.com/yagmurerdogan)
+[![linkedin](https://img.icons8.com/office/40/000000/linkedin.png)](https://www.linkedin.com/in/yagmurerdgn/) 
+[![twitter](https://img.icons8.com/office/40/000000/twitter.png)](https://twitter.com/yamuurerdgn)
 
 
 <!--
