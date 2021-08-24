@@ -1,17 +1,16 @@
 
 # Hi, I'm Yağmur ![android_robot_mobile_mood_emoji_happy_smile_successful_icon-icons com_61441](https://user-images.githubusercontent.com/47380312/123044821-db590700-d402-11eb-9cb6-4f950f51b8e6.png)
 
+<a href="https://github.com/yagmurerdogan/yagmurerdogan">
+  <img align="right" width="57%" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Yağmur's GitHub Stats" />
+</a>
+
 - 👩🏻‍💻 I’m currently working at [Hepsiburada](https://www.hepsiburada.com/)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
 - 🇩🇪 My German notes on [Notion](https://yagmurerdogan.notion.site/5473c32e5e3c48abb28a13d6400a4af3?v=50e8249751d74da587529ba57b565fbb)
 - 🎧 Listen to my [Podcast](https://open.spotify.com/episode/1MRUQx7c1B2YEMfsRPqM1s)
 - 🌎 My Volunteering [Memories](https://drive.google.com/file/d/1RXC5VDv_JPmjgH1Y1Q7tH9Nmpdqfk34e/view?usp=sharing)
 - 💬 Ask me about Android App Development or any tech related stuff
-
-<a href="https://github.com/yagmurerdogan/yagmurerdogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Yağmur's GitHub Stats" />
-</a>
-
 
 
 ## Find me around the web 🌍
