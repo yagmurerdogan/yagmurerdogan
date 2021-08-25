@@ -12,7 +12,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Yağmur's GitHub Stats" />
 </a>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurerdogan&layout=compact&icon_color=eadb15" alt="yagmurerdogan Stats" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ## Find me around the web 🌍
 [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
@@ -25,6 +26,13 @@
 **yagmurerdogan/yagmurerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ✍🏻 My blogs on [Medium](https://yagmurerdgn.medium.com/) !
 - 🌟 Sharing updates on [LinkedIn](https://www.linkedin.com/in/yagmurerdgn/) !
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=buefy&hide_border=false)](https://git.io/streak-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurerdogan&layout=compact&icon_color=eadb15" alt="yagmurerdogan Stats" />
 
 
 Here are some ideas to get you started:
