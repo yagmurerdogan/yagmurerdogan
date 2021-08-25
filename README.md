@@ -11,7 +11,8 @@
 <a href="https://github.com/yagmurerdogan/yagmurerdogan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurerdogan&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Yağmur's GitHub Stats" />
 </a>
-
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurerdogan&layout=compact&icon_color=eadb15" alt="yagmurerdogan Stats" />
 
 ## Find me around the web 🌍
 [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
