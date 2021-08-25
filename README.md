@@ -1,5 +1,5 @@
 
-# Hi, I'm Yağmur ![android_robot_mobile_mood_emoji_happy_smile_successful_icon-icons com_61441](https://user-images.githubusercontent.com/47380312/123044821-db590700-d402-11eb-9cb6-4f950f51b8e6.png)
+# ![droid](https://img.icons8.com/color-glass/48/000000/android-os.png)  Hi, I'm Yağmur !
 
 - 👩🏻‍💻 I’m currently working at [Hepsiburada](https://www.hepsiburada.com/)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/yagmurerdogan/count.svg" />
 </p>
 
+# Hi, I'm Yağmur ![android_robot_mobile_mood_emoji_happy_smile_successful_icon-icons com_61441](https://user-images.githubusercontent.com/47380312/123044821-db590700-d402-11eb-9cb6-4f950f51b8e6.png)
 
 ![bg4](https://user-images.githubusercontent.com/47380312/101977996-c422ab00-3c62-11eb-8187-33826d157105.JPG)
 
