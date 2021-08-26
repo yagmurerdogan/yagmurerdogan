@@ -13,6 +13,8 @@
 </a>
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 
 ## Find me around the web 🌍
 [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
@@ -25,7 +27,7 @@
 **yagmurerdogan/yagmurerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ✍🏻 My blogs on [Medium](https://yagmurerdgn.medium.com/) !
 - 🌟 Sharing updates on [LinkedIn](https://www.linkedin.com/in/yagmurerdgn/) !
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
 
