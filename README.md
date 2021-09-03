@@ -17,7 +17,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-
 ## Find me around the web 🌍
 [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
 [![github](https://img.icons8.com/color/50/000000/github-2.png)](https://github.com/yagmurerdogan)
@@ -37,9 +36,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurerdogan&layout=compact&icon_color=eadb15" alt="yagmurerdogan Stats" />
 
-
 Here are some ideas to get you started:
-
 
 <a href="https://github.com/yagmurerdogan/yagmurerdogan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurerdogan&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -82,6 +79,4 @@ Here are some ideas to get you started:
 </a></td>
  </tr>
 </table>
-
-
 -->
