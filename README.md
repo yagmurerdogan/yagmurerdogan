@@ -16,9 +16,9 @@
 <br>
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagmurerdogan&theme=tokyonight_duo)](https://git.io/streak-stats)
+## Find me around the web 🌍
 -->
 
-## Find me around the web 🌍
 [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://yagmurerdgn.medium.com/)
 [![github](https://img.icons8.com/color/50/000000/github-2.png)](https://github.com/yagmurerdogan)
 [![linkedin](https://img.icons8.com/office/40/000000/linkedin.png)](https://www.linkedin.com/in/yagmurerdgn/) 
