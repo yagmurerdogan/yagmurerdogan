@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png" align="left" width="35%"/>
 
 - 👩🏻‍💻 I’m currently working at [Hepsiburada](https://www.hepsiburada.com/)
+- 🪁 I am currently developing a [MVVM-News App](https://github.com/yagmurerdogan/MVVM-News-App)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
 - 🇩🇪 My German notes on [Notion](https://yagmurerdogan.notion.site/5473c32e5e3c48abb28a13d6400a4af3?v=50e8249751d74da587529ba57b565fbb)
 - 🎧 Listen to my [Podcast](https://open.spotify.com/episode/1MRUQx7c1B2YEMfsRPqM1s)
