@@ -1,5 +1,5 @@
 
-# ![droid](https://img.icons8.com/color-glass/48/000000/android-os.png)  Hi, I'm Yağmur !
+# ![droid](https://img.icons8.com/color-glass/48/000000/android-os.png)  Hi, I'm Yağmur!
 
 <img src="https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png" align="left" width="35%"/>
 
