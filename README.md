@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/47380312/130993587-777dfd41-5c50-45fc-b4ec-d8a65f0b32c9.png" align="left" width="35%"/>
 
-- 👩🏻‍💻 I’m currently working at [ekar](https://ekar.app/ae/en/carshare) | ex [Hepsiburada](https://www.hepsiburada.com/)
+- 👩🏻‍💻 I’m currently working at [Çiçeksepeti/Mizu](https://www.linkedin.com/company/ciceksepeti-com/mycompany/verification/) | ex [ekar](https://ekar.app/ae/en/carshare), [Hepsiburada](https://www.hepsiburada.com/)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
 - 🎧 Listen to my [Podcast](https://open.spotify.com/episode/1MRUQx7c1B2YEMfsRPqM1s)
 - 🌎 My Volunteering [Memories](https://drive.google.com/file/d/1RXC5VDv_JPmjgH1Y1Q7tH9Nmpdqfk34e/view?usp=sharing)
