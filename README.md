@@ -6,7 +6,6 @@
 - 👩🏻‍💻 I’m currently working at [Trendyol](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.trendyol.com/&ved=2ahUKEwjk54e174yDAxVSXvEDHTSLAaUQjjh6BAgGEAE&usg=AOvVaw3LtIL25mhFBpNDhlgGLzca)
 - 📒 I regulary write technical articles on [Medium](https://yagmurerdgn.medium.com/)
 - 🎧 Listen to my [Podcast](https://open.spotify.com/episode/1MRUQx7c1B2YEMfsRPqM1s)
-- 🌎 My Volunteering [Memories](https://drive.google.com/file/d/1RXC5VDv_JPmjgH1Y1Q7tH9Nmpdqfk34e/view?usp=sharing)
 - 💬 Ask me about Android App Development or any tech related stuff
 
 <a href="https://github.com/yagmurerdogan/yagmurerdogan">
